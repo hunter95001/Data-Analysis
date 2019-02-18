@@ -8,3 +8,13 @@ C:\Users\KYJ\source\repos\DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.pdb
 C:\Users\KYJ\source\repos\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.Form1.resources
 C:\Users\KYJ\source\repos\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.exe
 C:\Users\KYJ\source\repos\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.pdb
+C:\Users\KYJ\Desktop\Git Hub\Data Analysis\DataAnalysis\bin\Debug\DataAnalysis.exe.config
+C:\Users\KYJ\Desktop\Git Hub\Data Analysis\DataAnalysis\bin\Debug\DataAnalysis.exe
+C:\Users\KYJ\Desktop\Git Hub\Data Analysis\DataAnalysis\bin\Debug\DataAnalysis.pdb
+C:\Users\KYJ\Desktop\Git Hub\Data Analysis\DataAnalysis\obj\Debug\DataAnalysis.csprojAssemblyReference.cache
+C:\Users\KYJ\Desktop\Git Hub\Data Analysis\DataAnalysis\obj\Debug\DataAnalysis.Form1.resources
+C:\Users\KYJ\Desktop\Git Hub\Data Analysis\DataAnalysis\obj\Debug\DataAnalysis.Properties.Resources.resources
+C:\Users\KYJ\Desktop\Git Hub\Data Analysis\DataAnalysis\obj\Debug\DataAnalysis.csproj.GenerateResource.cache
+C:\Users\KYJ\Desktop\Git Hub\Data Analysis\DataAnalysis\obj\Debug\DataAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\KYJ\Desktop\Git Hub\Data Analysis\DataAnalysis\obj\Debug\DataAnalysis.exe
+C:\Users\KYJ\Desktop\Git Hub\Data Analysis\DataAnalysis\obj\Debug\DataAnalysis.pdb
